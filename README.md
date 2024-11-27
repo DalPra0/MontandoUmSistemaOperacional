@@ -10,3 +10,9 @@ Esse sistema operacional ira ter apenas funcoes basicas, como um navegador, uma 
 
 ## Linux
 Essa versao eu quero utilizar para poder aprender a programar em linux, eu quero pegar o linux cru, e ir programando coisas nele, eu vou programar o que eu achar mais importante para aprender.
+
+## Livros que estou lendo para esse projeto:
+
+- [**Operating Systems: Design and Implementation (Andrew S. Tanenbaum)**](https://github.com/DalPra0/MontandoUmSistemaOperacional/blob/main/Livros/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf)
+
+- [**Modern Operating Systems (Andrew S. Tanenbaum)**](https://github.com/DalPra0/MontandoUmSistemaOperacional/blob/main/Livros/Modern%20Operating%20Systems%204th%20Edition--Andrew%20Tanenbaum.pdf)

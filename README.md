@@ -13,6 +13,9 @@ Essa versao eu quero utilizar para poder aprender a programar em linux, eu quero
 
 ## Livros que estou lendo para esse projeto:
 
-- [**Operating Systems: Design and Implementation (Andrew S. Tanenbaum)**](https://github.com/DalPra0/MontandoUmSistemaOperacional/blob/main/Livros/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf)
+- [**Operating Systems: Design and Implementation (Andrew S. Tanenbaum)**](https://github.com/DalPra0/MontandoUmSistemaOperacional/blob/main/Livros/Andrew%20S.%20Tanenbaum%20-%20Operating%20Systems.%20Design%20and%20Implementation.pdf): Focado na implementação prática de um sistema operacional, com exemplos detalhados baseados no MINIX.
 
-- [**Modern Operating Systems (Andrew S. Tanenbaum)**](https://github.com/DalPra0/MontandoUmSistemaOperacional/blob/main/Livros/Modern%20Operating%20Systems%204th%20Edition--Andrew%20Tanenbaum.pdf)
+- [**Modern Operating Systems (Andrew S. Tanenbaum)**](https://github.com/DalPra0/MontandoUmSistemaOperacional/blob/main/Livros/Modern%20Operating%20Systems%204th%20Edition--Andrew%20Tanenbaum.pdf): Uma visão abrangente e teórica sobre os princípios dos sistemas operacionais, cobrindo conceitos avançados e aplicações modernas.
+
+## Wiki
+- [**OsDEV.org**](https://wiki.osdev.org/Expanded_Main_Page): Esse site reuni todas as informações necessarias para o desenvolvimento de um sistema operacional.

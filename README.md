@@ -1,5 +1,5 @@
 # Montando Um Sistema Operacional
-Esse é um projeto extracurricular, eu estou tentando aprender como montar um SO, do 0, e tambem a partir do linux.
+Esse é um projeto extracurricular, eu estou tentando aprender como montar um SO, do zero, e tambem a partir do linux.
 
 ![image](https://github.com/user-attachments/assets/fcfe1ee1-41fb-4f92-acae-59c69a673614)
 

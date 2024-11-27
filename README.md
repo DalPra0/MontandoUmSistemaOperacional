@@ -18,4 +18,12 @@ Essa versao eu quero utilizar para poder aprender a programar em linux, eu quero
 - [**Modern Operating Systems (Andrew S. Tanenbaum)**](https://github.com/DalPra0/MontandoUmSistemaOperacional/blob/main/Livros/Modern%20Operating%20Systems%204th%20Edition--Andrew%20Tanenbaum.pdf): Uma visão abrangente e teórica sobre os princípios dos sistemas operacionais, cobrindo conceitos avançados e aplicações modernas.
 
 ## Wiki
+
 - [**OsDEV.org**](https://wiki.osdev.org/Expanded_Main_Page): Esse site reuni todas as informações necessarias para o desenvolvimento de um sistema operacional.
+
+## Linux Kernel
+
+Aqui deixo varios links para o kernel do linux que estou utilizando:
+
+- [**GITHUB**](https://github.com/torvalds/linux): Aqui é uma pagina git que contem todos os arquivos do kernel Linux;
+- [**Kernel.org**](https://www.kernel.org/): Esse é um site do kernel do linux, tambem contem todos os arquivos, alem de versoes x86 e x64;
